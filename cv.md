@@ -69,9 +69,10 @@ function pow(x, n) {
   } else {
     return x;
   }
-}
-```
+};
 alert( pow(2, 3) );
+```
+
 
 
 ### Aducation:
