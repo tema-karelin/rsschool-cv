@@ -22,6 +22,8 @@ The application of knowledge and skills acquired at the university, the acquisit
 * JavaScript (vue.js, bootstrap, bootstrapVue)
 * php (basic)
 * Git
+* Docker
+* SAP Cloud For Customers (SAP Application Studio)
 
 
 
@@ -30,7 +32,8 @@ The application of knowledge and skills acquired at the university, the acquisit
 
 ### Expierensce:   
 
-#### WEB development with using HTML, CSS, JavaScript
+
+#### WEB development with using HTML, CSS, JavaScript, PHP
 
 * **HTML sample code:**  
 ```html
